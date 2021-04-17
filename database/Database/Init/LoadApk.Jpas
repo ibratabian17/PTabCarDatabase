@@ -1,0 +1,17 @@
+
+//this is autoloaded by apps, this just an reminder
+
+Load Android Webview;
+Load Map;
+Load Files;
+Load MediaRetriver;
+Load Activity.Java;
+Load Videoview;
+Load ASeM;
+Load MusicUI;
+Load NETWORK_PRIVODER;
+Load IPTV;
+Load Tivi;
+Load YT;
+Load YTM;
+Import com.ibraar.ptab;
